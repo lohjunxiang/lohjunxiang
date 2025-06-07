@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lohjunxiang
-- 👀 I’m interested in design, film photography and cool technologies. 
-- 💞️ I’m looking to collaborate on design projects. 
+- 👀 I’m interested in design, film photography and cool technologies.
 - 📫 How to reach me: drop me an email @ lohjunxiang.ljx@gmail.com
 
 <!---
